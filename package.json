@@ -1,0 +1,15 @@
+{
+  "name": "random_png",
+  "version": "0.0.1",
+  "description": "This is a program that can choose random png and copy it to random.png",
+  "main": "random_png.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node random_png.js"
+  },
+  "author": "Dmitry Kutuzov",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.7.14"
+  }
+}
