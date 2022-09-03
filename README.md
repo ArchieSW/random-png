@@ -1,5 +1,5 @@
 # random-png
-This program can generate random png file from folder and copy it to random.png file.
+This program can choose random png file from folder and copy it to random.png file.
 
 ## How to use:
 ```
