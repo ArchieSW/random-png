@@ -55,7 +55,7 @@ function getDirName(): string {
     if (process.argv.length > 2) {
         return process.argv[2]
     }
-    return __dirname
+    return process.cwd()
 }
 
 function printHelp(): void {

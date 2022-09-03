@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^18.7.14"
+  },
+  "bin": {
+      "execute": "random_png.js"
   }
 }
